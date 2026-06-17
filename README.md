@@ -1,117 +1,104 @@
-
 <div align="center">
 
-# Hey, I'm Youssef Mohamed 👋
+<h1>Youssef Mohamed</h1>
+<h3>.NET Backend Developer</h3>
 
-### .NET Backend Developer · CS Student 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=ASP.NET+Core+%7C+Clean+Architecture;RESTful+APIs+%7C+JWT+%7C+EF+Core;Building+scalable+backend+systems)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-mohmd)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Youssef-Mohamd)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:youssefmohamed1001.at@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Youssef-Mohamd&color=0078D4&style=flat-square&label=views)
 
 </div>
 
 ---
 
-## 👤 About Me
-
-I'm a **Computer Science student** at Sadat Academy for Management Sciences (Class of 2027), specializing in **.NET Backend Development**. I build scalable, production-ready web applications using **ASP.NET Core**, **Entity Framework Core**, and **Clean Architecture** — and I'm actively seeking a **Backend or Full-Stack .NET internship**.
-
-```csharp
-var youssef = new Developer
-{
-    Name        = "Youssef Mohamed",
-    Role        = ".NET Backend Developer",
-    University  = "Sadat Academy for Management Sciences",
-    Location    = "Cairo, Egypt",
-    OpenTo      = new[] { "Backend Internship", "Full-Stack .NET Internship" },
-    CurrentFocus = "Building clean, layered APIs with ASP.NET Core"
-};
-```
+Backend developer focused on building clean, scalable APIs with **ASP.NET Core** and **Clean Architecture**. I care about writing maintainable code, solid layering, and proper security — JWT, RBAC, RESTful design. Currently seeking a **.NET Backend or Full-Stack internship**.
 
 ---
 
-## 🎯 Current Focus
+## Tech Stack
 
-- 🏗️ Deepening expertise in **Clean Architecture** and **Domain-Driven Design**
-- 🔐 Implementing **JWT Authentication** and **Role-Based Access Control** in production-grade APIs
-- 📚 Sharpening **Data Structures & Algorithms** for technical interviews
-- 🚀 Building real-world projects to land a **.NET Backend Internship** at top tech companies
+**Languages**
 
----
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-## 🛠️ Tech Stack
+**Frameworks & Libraries**
 
-### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,cpp,python&theme=dark)](https://skillicons.dev)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Identity](https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![AutoMapper](https://img.shields.io/badge/AutoMapper-BE0000?style=flat-square&logoColor=white)
 
-### Databases & Tools
-[![My Skills](https://skillicons.dev/icons?i=sqlserver,git,github,visualstudio,postman&theme=dark)](https://skillicons.dev)
+**Databases & APIs**
 
-### 🧠 Software Engineering Concepts
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful_API-FF6B35?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-![OOP](https://img.shields.io/badge/OOP-Object--Oriented%20Programming-0078D4?style=flat-square&logo=dotnet&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-Principles-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-1D9E75?style=flat-square&logo=dotnet&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful-APIs-FF6B35?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Repository Pattern](https://img.shields.io/badge/Repository-Pattern-0078D4?style=flat-square&logo=dotnet&logoColor=white)
-![Dependency Injection](https://img.shields.io/badge/Dependency-Injection-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+**Tools**
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-## 🚀 Featured Projects
+**Concepts & Patterns**
 
-### 🎓 University Smart Campus System
-> A multi-module RESTful API for managing full university operations
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Youssef-Mohamd/DEPI_Smart_Campus_Project)
-
-- 🏛️ Built with **ASP.NET Core** and **Clean Architecture** (Domain / Application / Infrastructure layers)
-- 📝 Full **Exam & Submission** system with automatic grading engine and attendance tracking
-- 🔐 Secured with **JWT + RBAC** — Admin, Instructor, and Student roles
-- 🗄️ Persisted via **Entity Framework Core** with **SQL Server** and soft delete functionality
-
-`ASP.NET Core` `Clean Architecture` `EF Core` `JWT` `SQL Server` `RBAC` `LINQ`
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1D9E75?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-0078D4?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-0078D4?style=flat-square)
+![MVC](https://img.shields.io/badge/MVC-512BD4?style=flat-square)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-0078D4?style=flat-square)
+![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-512BD4?style=flat-square)
+![RBAC](https://img.shields.io/badge/Role--Based_Access_Control-CC2927?style=flat-square)
 
 ---
 
-### 📅 Event Booking System
-> A full-featured event management and ticket booking API
+## Projects
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Youssef-Mohamd/Event_Booking_System)
+### [University Smart Campus System](https://github.com/Youssef-Mohamd/DEPI_Smart_Campus_Project)
+RESTful API managing full university operations — students, courses, exams, and attendance.
+- Clean Architecture with Domain / Application / Infrastructure separation
+- Exam & Submission modules with automatic grading engine and soft delete
+- JWT + RBAC across Admin, Instructor, and Student roles
 
-- 🏗️ Clean Architecture with 4 clearly separated layers
-- 🎫 Real-time ticket availability validation and conflict-safe booking workflows
-- 👥 Multi-role JWT Auth — Admin, Organizer, User
-- 📊 Comprehensive admin dashboard for event and booking management
-
-`ASP.NET Core` `Clean Architecture` `JWT` `RBAC` `EF Core` `SQL Server`
+`ASP.NET Core` · `EF Core` · `SQL Server` · `JWT` · `Clean Architecture` · `LINQ`
 
 ---
 
-### 🎮 GameZone — Game Catalog Web App
-> A full-stack MVC application for browsing and managing a game catalog
+### [Event Booking System](https://github.com/Youssef-Mohamd/Event_Booking_System)
+Full-featured event management API with real-time ticket availability and multi-role access.
+- 4-layer Clean Architecture
+- Conflict-safe booking workflow with real-time availability validation
+- Admin, Organizer, and User roles via JWT authentication
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Youssef-Mohamd/GameZone_MVC)
-
-- 🧩 **ASP.NET Core 8 MVC** with Service Layer and Dependency Injection
-- 🔑 **ASP.NET Core Identity** with Admin/User roles and full game CRUD
-- 🖼️ Image upload, many-to-many relationships, and star rating review system
-- 🌱 Automated data seeding for consistent test environments
-
-`ASP.NET Core 8` `MVC` `ASP.NET Identity` `EF Core` `SQL Server` `Service Layer`
+`ASP.NET Core` · `EF Core` · `SQL Server` · `JWT` · `RBAC` · `Clean Architecture`
 
 ---
 
-## 📊 GitHub Statistics
+### [GameZone — Game Catalog MVC](https://github.com/Youssef-Mohamd/GameZone_MVC)
+Full-stack MVC app for game catalog management with image handling and user reviews.
+- Service Layer + Dependency Injection for clean separation of concerns
+- ASP.NET Core Identity with Admin/User roles and customized auth pages
+- Many-to-many EF Core relationships, data seeding, and star rating system
+
+`ASP.NET Core 8` · `MVC` · `ASP.NET Identity` · `EF Core` · `SQL Server`
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Youssef-Mohamd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Mohamd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Youssef-Mohamd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Mohamd&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide_title=true" />
 
-</div>
-
-<div align="center">
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Youssef-Mohamd&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -119,13 +106,9 @@ var youssef = new Developer
 
 ---
 
-## 📫 Let's Connect
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-mohmd)
-[![GitHub](https://img.shields.io/badge/GitHub-Youssef--Mohamd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssef-Mohamd)
-[![Email](https://img.shields.io/badge/Email-youssefmohamed1001.at%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefmohamed1001.at@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-mohmd)
 
 </div>
 
