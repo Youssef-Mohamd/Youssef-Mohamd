@@ -3,7 +3,7 @@
 
 # Hey, I'm Youssef Mohamed 👋
 
-### .NET Backend Developer · CS Student · Internship Ready
+### .NET Backend Developer · CS Student 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=ASP.NET+Core+%7C+Clean+Architecture;RESTful+APIs+%7C+JWT+%7C+EF+Core;Building+scalable+backend+systems)](https://git.io/typing-svg)
 
