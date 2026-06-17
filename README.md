@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0078D4,100:512BD4&height=120&section=header&animation=fadeIn" width="100%"/>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Youssef+Mohamed+%F0%9F%91%8B;.NET+Backend+Developer;Clean+Architecture+%7C+RESTful+APIs;Open+to+Backend+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Youssef+Mohamed+%F0%9F%91%8B;.NET+Backend+Developer;Clean+Architecture+%7C+RESTful+APIs" alt="Typing SVG" />
 </h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-mohmd)
